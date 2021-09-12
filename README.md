@@ -1,2 +1,2 @@
 # box-models-css
-various padding boxes and text manipulations
+Various methods to influence padding and text within the padding on a webpage
